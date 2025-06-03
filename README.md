@@ -87,7 +87,7 @@ POST /nlp
       "period": null
     }
   },
-  "intent": "unknown_command",
+  "intent": "set_alarm",
   "intent_score": 0.545,
   "text": "установи будильник на утро"
 }
@@ -96,6 +96,7 @@ POST /nlp
 Для проверки выполните в консоли:
 ```bash
 curl -X POST http://localhost:8080/nlp -H "Content-Type: application/json" -d '{"text": "включи музыку"}'|jq
+curl -X POST http://localhost:8080/nlp -H "Content-Type: application/json" -d '{"text": "установи будильник на завтра на 14 45"}'|jq
 ```
 
 # Тесты
