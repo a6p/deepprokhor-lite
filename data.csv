@@ -1,0 +1,284 @@
+text,label
+"включи свет в спальне",turn_on_light
+"сделай свет ярче в зале",turn_on_light
+"зажги лампу в комнате",turn_on_light
+"включи свет на кухне",turn_on_light
+"включи свет на улице",turn_on_light
+"включи свет на балконе",turn_on_light
+"включи свет в туалете",turn_on_light
+"свет в гостиной включи",turn_on_light
+"дай свет в коридоре",turn_on_light
+"освети зал",turn_on_light
+"включи лампочку в ванной",turn_on_light
+"включи свет повсюду",turn_on_light
+"хочу свет в спальне",turn_on_light
+"подними яркость света в комнате",turn_on_light
+"свет включи на полную",turn_on_light
+"сделай свет потише",turn_on_light
+"давай свет на 50 процентов",turn_on_light
+"включи свет, мне темно",turn_on_light
+"включи лампу в детской",turn_on_light
+
+"выключи свет в комнате",turn_off_light
+"погаси лампу в спальне",turn_off_light
+"сделай темнее в зале",turn_off_light
+"выключи свет на кухне",turn_off_light
+"свет погаси в коридоре",turn_off_light
+"отключи свет в гостиной",turn_off_light
+"выключи лампочку",turn_off_light
+"свет выключи, пожалуйста",turn_off_light
+"выключи свет повсюду",turn_off_light
+"сделай темно в комнате",turn_off_light
+"выключи свет, уже поздно",turn_off_light
+"погаси свет в детской",turn_off_light
+"свет не нужен, выключи",turn_off_light
+"сделай полумрак в зале",turn_off_light
+"выключи свет на 30 процентов",turn_off_light
+
+"поставь температуру на 22 градуса",set_temperature
+"сделай тепло в спальне, 24 градуса",set_temperature
+"установи 19 градусов в зале",set_temperature
+"хочу 21 градус в комнате",set_temperature
+"сделай прохладно, 18 градусов",set_temperature
+"подними температуру до 23",set_temperature
+"включи отопление на 25 градусов",set_temperature
+"охлади комнату до 20",set_temperature
+"температура 20 градусов, пожалуйста",set_temperature
+"сделай в гостиной 22 градуса",set_temperature
+"установи кондиционер на 23 градуса",set_temperature
+"влючи кондей на 20 градусов",set_temperature
+"выставь температуру 24 градуса",set_temperature
+"сделай комнату теплее, 26 градусов",set_temperature
+"понизь температуру на 3 градуса",set_temperature
+"включи кондиционер похолоднее",set_temperature
+"включи кондиционер прохдалнее",set_temperature
+"включи кондиционер потеплее",set_temperature
+"включи кондиционер в режим осушения",set_temperature
+"включи кондиционер в режим охлаждения",set_temperature
+
+"включи кондиционер жарко",turn_on_conditioner
+"включи кондей в спальне",turn_on_conditioner
+"запусти кондишку",turn_on_conditioner
+"включи прохладу",turn_on_conditioner
+"охлади комнату, включи кондей",turn_on_conditioner
+"кондиционер включи, пожалуйста",turn_on_conditioner
+"запусти кондей в зале",turn_on_conditioner
+"включи вентилятор и кондей",turn_on_conditioner
+"включи кондиционер на кухне",turn_on_conditioner
+"включи кондей на кухне",turn_on_conditioner
+"включи кондишку на кухне",turn_on_conditioner
+"сделай прохладно",turn_on_conditioner
+"включи климат-контроль",turn_on_conditioner
+"дай прохладу",turn_on_conditioner
+"охлади помещение",turn_on_conditioner
+"включи кондей жара в доме",turn_on_conditioner
+"сделай холодно в гостиной",turn_on_conditioner
+"включи кондиционер так надо",turn_on_conditioner
+
+"выключи кондей",turn_off_conditioner
+"выключи кондишку",turn_off_conditioner
+"выключи кондиционер",turn_off_conditioner
+"отключи кондей",turn_off_conditioner
+"отключи кондишку",turn_off_conditioner
+"отключи кондиционер",turn_off_conditioner
+"отключи кондиционер в комнате",turn_off_conditioner
+"отключи кондиционер в зале",turn_off_conditioner
+"отключи кондиционер на кухне",turn_off_conditioner
+"выключи кондиционер в комнате",turn_off_conditioner
+"выключи кондиционер в зале",turn_off_conditioner
+"выключи кондиционер на кухне",turn_off_conditioner
+
+"выключи кондишку, уже холодно",turn_off_conditioner
+"выключи вентилятор и кондей",turn_off_conditioner
+"отключи климат-контроль",turn_off_conditioner
+"выключи кондиционер в зале",turn_off_conditioner
+"выключи кондей в зале",turn_off_conditioner
+"выключи кондишку в зале",turn_off_conditioner
+"сделай теплее, выключи кондей",turn_off_conditioner
+"кондей выключи, пожалуйста",turn_off_conditioner
+"отключи охлаждение",turn_off_conditioner
+"выключи кондей на кухне",turn_off_conditioner
+"выключи кондишку на кухне",turn_off_conditioner
+"выключи кондиционер на кухне",turn_off_conditioner
+"отключи вентилятор",turn_off_conditioner
+"выключи устройство охлаждения",turn_off_conditioner
+"сделай теплее, кондей выключи",turn_off_conditioner
+"выключи кондиционер полностью",turn_off_conditioner
+
+"включи музыку",play_music
+"поставь что-то весёлое",play_music
+"включи рок",play_music
+"включи плейлист",play_music
+"запусти музыку в спальне",play_music
+"дай музыку",play_music
+"включи трек",play_music
+"проиграй что-нибудь",play_music
+"поставь музыку на фон",play_music
+"включи мою любимую музыку",play_music
+"включи джаз",play_music
+"включи что-то спокойное",play_music
+"начни музыку в зале",play_music
+"включи песни",play_music
+"поставь музыку потише",play_music
+"включи радио",play_music
+"включи летний плейлист",play_music
+"включи летний вайб",play_music
+"включи осенний плейлист",play_music
+"включи новогоднюю музыку",play_music
+"включи зимний вайб",play_music
+"включи мой плейлист",play_music
+"включи веселую музыку",play_music
+"включи грустную музыку",play_music
+
+"выключи музыку",stop_music
+"останови воспроизведение",stop_music
+"поставь на паузу",stop_music
+"прекрати музыку",stop_music
+"выключи трек",stop_music
+"музыка стоп",stop_music
+"останови звук",stop_music
+"выключи песни",stop_music
+"сделай тише музыку",stop_music
+"прекрати воспроизведение",stop_music
+"заглуши музыку",stop_music
+"убери звук",stop_music
+"выключи радио",stop_music
+"останови плейлист",stop_music
+"убери музыку",stop_music
+
+
+"какая сегодня погода",weather_query
+"скажи погоду",weather_query
+"будет ли дождь",weather_query
+"какая температура на улице",weather_query
+"какой прогноз на сегодня",weather_query
+"как погода сейчас",weather_query
+"прогноз погоды на завтра",weather_query
+"будет ли снег",weather_query
+"как сейчас на улице",weather_query
+"нужна погода",weather_query
+"скажи жарко ли",weather_query
+"какая влажность сейчас",weather_query
+"прогноз осадков",weather_query
+"как погода в Москве",weather_query
+"будет дождь завтра утром в москве",weather_query
+"будет ли снег в пятницу утром в питере",weather_query
+"будет ветер сегодня утром во владивостоке",weather_query
+"будет ли ветер",weather_query
+"какая погода во владивостоке сегодня в 14 часов",weather_query
+"какая погода в москве завтра",weather_query
+"погода в уссурийске на неделю",weather_query
+"какая погода в пятницу",weather_query
+"какая погода во владивостоке в понедельник",weather_query
+"какая погода в саратове вo вторник",weather_query
+"какая погода в сеуле на выходных",weather_query
+"какая погода в питере в четверг",weather_query
+"прогноз погоды во владивостоке в понедельник",weather_query
+"прогноз погоды во вторник",weather_query
+"прогноз погоды в четверг",weather_query
+"прогноз погоды на неделю",weather_query
+
+"установи будильник на 7 утра",set_alarm
+"разбуди меня в 8 часов",set_alarm
+"поставь будильник на 6:30",set_alarm
+"напомни проснуться в 9",set_alarm
+"будильник на 10 утра",set_alarm
+"поставь сигнал на 7:15",set_alarm
+"будильник в 8:45",set_alarm
+"установи будильник через 30 минут",set_alarm
+"разбуди меня завтра утром",set_alarm
+"поставь напоминание на 6 утра",set_alarm
+"поставь сигнал на 5 утра",set_alarm
+"поставь будильник на завтра",set_alarm
+"разбуди меня вовремя",set_alarm
+"будильник в 7:00",set_alarm
+"напомни утром",set_alarm
+
+"включи телевизор",turn_on_tv
+"включи тв в спальне",turn_on_tv
+"телевизор включи в зале",turn_on_tv
+"включи телевизор, пожалуйста",turn_on_tv
+"включи тв",turn_on_tv
+"запусти телевизор",turn_on_tv
+"включи телек",turn_on_tv
+"включи телик",turn_on_tv
+"телик включи",turn_on_tv
+"телевизор включи",turn_on_tv
+"тв включи",turn_on_tv
+"включи телевизор на кухне",turn_on_tv
+"включи большой экран",turn_on_tv
+"включи телевизор в гостиной",turn_on_tv
+"запусти телевизор в комнате",turn_on_tv
+"включи телевизор сейчас",turn_on_tv
+"включи тв тут",turn_on_tv
+"включи тв там",turn_on_tv
+"включи телик тут",turn_on_tv
+"включи телевизор на балконе",turn_on_tv
+"включи маленький телевизор",turn_on_tv
+"включи большой телевизор",turn_on_tv
+"включи маленький телик",turn_on_tv
+"включи большой телик",turn_on_tv
+
+"выключи телевизор",turn_off_tv
+"отключи ТВ в зале",turn_off_tv
+"выключи телек",turn_off_tv
+"выключи телевизор сейчас",turn_off_tv
+"погаси телевизор",turn_off_tv
+"выключи экран",turn_off_tv
+"выключи телевизор в комнате",turn_off_tv
+"выключи ТВ",turn_off_tv
+"выключи телевизор быстро",turn_off_tv
+"отключи телевизор",turn_off_tv
+"выключи телевизор в гостиной",turn_off_tv
+"выключи ТВ канал",turn_off_tv
+"погаси экран",turn_off_tv
+"отключи телевизор сейчас",turn_off_tv
+"выключи ТВ",turn_off_tv
+
+"включи 11 канал",tv_channel_switch
+"переключи на 5 канал",tv_channel_switch
+"переключи телевизор на 1 канал",tv_channel_switch
+"смени канал на 7",tv_channel_switch
+"переключи ТВ на новости",tv_channel_switch
+"включи канал Спорт",tv_channel_switch
+"включи фильм на ТВ",tv_channel_switch
+"включи канал с музыкой",tv_channel_switch
+"переключи телек на канал 3",tv_channel_switch
+"включи канал детский",tv_channel_switch
+"переключи канал на Discovery",tv_channel_switch
+"включи 10 канал",tv_channel_switch
+"включи 1 канал",tv_channel_switch
+"включи 2 канал",tv_channel_switch
+"включи 3 канал",tv_channel_switch
+"включи 4 канал",tv_channel_switch
+"включи 5 канал",tv_channel_switch
+"включи 6 канал",tv_channel_switch
+"включи 7 канал",tv_channel_switch
+"включи 8 канал",tv_channel_switch
+"включи 9 канал",tv_channel_switch
+"11 канал включи",tv_channel_switch
+"5 канал включи",tv_channel_switch
+"новости включи",tv_channel_switch
+"мультики включи",tv_channel_switch
+
+
+"включи винк",tv_android
+"запусти винк",tv_android
+"запусти ютуб",tv_android
+"включи на ютуб маша и медведь",tv_android
+"включи на ютуб малышарики",tv_android
+"включи на ютуб мимимишки",tv_android
+"включи видео маша и медведь",tv_android
+"открой ютуб на ТВ",tv_android
+"включи кино на ютуб",tv_android
+"запусти видео на ТВ",tv_android
+"открой ютуб",tv_android
+"включи ролик на ютубе",tv_android
+"покажи видео на ютуб",tv_android
+"включи ютуб в спальне",tv_android
+"запусти ютуб",tv_android
+"включи мультфильмы на ютуб",tv_android
+"включи ютуб",tv_android
+"открой ютуб",tv_android
+"запусти какое нибудь кино на винке",tv_android
+"включи маша и медведь на ютуб мультики мультики очень хочу смотреть мультики ураа давай давай включай же",tv_android

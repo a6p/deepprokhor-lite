@@ -1,0 +1,10 @@
+flask>=2.3.3
+transformers>=4.40.1
+torch>=2.3.0
+scikit-learn>=1.4.2
+pandas>=2.2.2
+spacy>=3.7.4
+pymorphy2>=0.9.1
+datasets>=2.19.1
+numpy>=1.26.4
+datetime>=5.5
