@@ -13,6 +13,7 @@ app = Flask(__name__)
 #cointegrated/rubert-tiny2 — самая лёгкая BERT-модель на русском
 
 MODEL_NAME = "./finetuned_model"
+CONFIDENCE_THRESHOLD = 0.6
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
 model = AutoModelForSequenceClassification.from_pretrained(MODEL_NAME)
@@ -52,7 +53,6 @@ def nlp_handler():
     intent, confidence = predict_intent(text)
     entities = extract_entities(text)  # функция для извлечения сущностей
 
-    CONFIDENCE_THRESHOLD = 0.6
     if confidence < CONFIDENCE_THRESHOLD:
         intent = "unknown_command"
 
