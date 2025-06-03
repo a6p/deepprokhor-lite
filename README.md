@@ -43,11 +43,13 @@ python -m spacy download ru_core_news_sm
 ```
 ## Обучение
 
-Перед запуском надо дообучить BERT модель.
+Перед запуском надо дообучить BERT модель, без этого сервер не запустится.
 Датасет, который я использовал в data.csv.
 
 Для дообучения модели:
+
 ```bash
+pip install transformers[torch] scikit-learn
 python train_finetune.py
 ```
 ## Запуск сервера
