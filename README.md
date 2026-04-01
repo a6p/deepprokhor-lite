@@ -13,7 +13,7 @@
 - Python 3.8+
 - pip
 - [spaCy](https://spacy.io/) и русская модель `ru_core_news_sm`
-- transformers
+- transformers==4.41.2
 - torch
 - flask
 - pymorphy2
@@ -49,7 +49,7 @@ python -m spacy download ru_core_news_sm
 Для дообучения модели:
 
 ```bash
-pip install transformers[torch] scikit-learn
+pip install transformers[torch]==4.41.2 scikit-learn
 python train_finetune.py
 ```
 ## Запуск сервера
